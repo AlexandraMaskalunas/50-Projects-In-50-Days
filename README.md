@@ -1,5 +1,5 @@
 # 50-Projects-In-50-Days
-[Card Sources](https://nekrasovanatalya.github.io/50-Projects-In-50-Days/01-cards-sources/)
+[Card Sources](https://AlexandraMaskalunas.github.io/50-Projects-In-50-Days/01-cards-sources/)
 
 [Progress Steps](https://nekrasovanatalya.github.io/50-Projects-In-50-Days/02-progress-steps/)
 
