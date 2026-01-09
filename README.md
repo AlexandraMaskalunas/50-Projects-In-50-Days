@@ -1,36 +1,36 @@
 # 50-Projects-In-50-Days
 [Card Sources](https://AlexandraMaskalunas.github.io/50-Projects-In-50-Days/01-cards-sources/)
 
-[Progress Steps](https://nekrasovanatalya.github.io/50-Projects-In-50-Days/02-progress-steps/)
+[Progress Steps](https://AlexandraMaskalunas.github.io/50-Projects-In-50-Days/02-progress-steps/)
 
-[Rotating Navigation](https://nekrasovanatalya.github.io/50-Projects-In-50-Days/03-roating-navigation/)
+[Rotating Navigation](https://AlexandraMaskalunas.github.io/50-Projects-In-50-Days/03-roating-navigation/)
 
-[Hidden Search Widget](https://nekrasovanatalya.github.io/50-Projects-In-50-Days/04-hidden-search-widget/)
+[Hidden Search Widget](https://AlexandraMaskalunas.github.io/50-Projects-In-50-Days/04-hidden-search-widget/)
 
-[Blurry Loading](https://nekrasovanatalya.github.io/50-Projects-In-50-Days/05-blurry-loading/)
+[Blurry Loading](https://AlexandraMaskalunas.github.io/50-Projects-In-50-Days/05-blurry-loading/)
 
-[Scroll Animation](https://nekrasovanatalya.github.io/50-Projects-In-50-Days/06-scroll-animation/)
+[Scroll Animation](https://AlexandraMaskalunas.github.io/50-Projects-In-50-Days/06-scroll-animation/)
 
-[Split Landing Page](https://nekrasovanatalya.github.io/50-Projects-In-50-Days/07-split-landing-page/)
+[Split Landing Page](https://AlexandraMaskalunas.github.io/50-Projects-In-50-Days/07-split-landing-page/)
 
-[Form Wave Animation](https://nekrasovanatalya.github.io/50-Projects-In-50-Days/08-form-wave-animation/)
+[Form Wave Animation](https://AlexandraMaskalunasa.github.io/50-Projects-In-50-Days/08-form-wave-animation/)
 
-[Sound Board](https://nekrasovanatalya.github.io/50-Projects-In-50-Days/09-sound-boad/)
+[Sound Board](https://AlexandraMaskalunas.github.io/50-Projects-In-50-Days/09-sound-boad/)
 
-[Dad Jokes](https://nekrasovanatalya.github.io/50-Projects-In-50-Days/10-dad-jokes/)
+[Dad Jokes](https://AlexandraMaskalunas.github.io/50-Projects-In-50-Days/10-dad-jokes/)
 
-[Event keyCode](https://nekrasovanatalya.github.io/50-Projects-In-50-Days/11-event-keyCodes/)
+[Event keyCode](https://AlexandraMaskalunas.github.io/50-Projects-In-50-Days/11-event-keyCodes/)
 
-[FAQ Collapse](https://nekrasovanatalya.github.io/50-Projects-In-50-Days/12-FAQ-Collapse/)
+[FAQ Collapse](https://AlexandraMaskalunas.github.io/50-Projects-In-50-Days/12-FAQ-Collapse/)
 
-[Random Choice Picker](https://nekrasovanatalya.github.io/50-Projects-In-50-Days/13-Random-Choice-Picker/)
+[Random Choice Picker](https://AlexandraMaskalunas.github.io/50-Projects-In-50-Days/13-Random-Choice-Picker/)
 
-[Animated Navigation](https://nekrasovanatalya.github.io/50-Projects-In-50-Days/14-Animated-Navigation/)
+[Animated Navigation](https://AlexandraMaskalunas.github.io/50-Projects-In-50-Days/14-Animated-Navigation/)
 
-[Incrementing Counter](https://nekrasovanatalya.github.io/50-Projects-In-50-Days/15-Incrementing-Counter/)
+[Incrementing Counter](https://AlexandraMaskalunas.github.io/50-Projects-In-50-Days/15-Incrementing-Counter/)
 
-[Drink Water](https://nekrasovanatalya.github.io/50-Projects-In-50-Days/16-Drink-Water/)
+[Drink Water](https://AlexandraMaskalunas.github.io/50-Projects-In-50-Days/16-Drink-Water/)
 
-[Movie App](https://nekrasovanatalya.github.io/50-Projects-In-50-Days/17-Movie-App/)
+[Movie App](https://AlexandraMaskalunas.github.io/50-Projects-In-50-Days/17-Movie-App/)
 
-[Background Slider](https://nekrasovanatalya.github.io/50-Projects-In-50-Days/18-Background-Slider/)
+[Background Slider](https://AlexandraMaskalunas.github.io/50-Projects-In-50-Days/18-Background-Slider/)
